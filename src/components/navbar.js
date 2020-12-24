@@ -4,7 +4,8 @@ import Link from 'gatsby-link'
 const Navbar = () => {
   return (
     <div style={{
-      display: 'flex'
+      margin: '0',
+      backgroundColor: 'maroon',
     }}>
       <ul style={{
       display: 'flex',
